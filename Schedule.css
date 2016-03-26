@@ -1,8 +1,9 @@
 body{
-	background-image: url("img/temp.jpg");
+	background-image: url("img/street.jpg");
+    background-attachment:fixed;
 }
 
-body>input{
+a>input{
 	padding: 10px 30px;
         text-align: center;
         font-size: 15px;
