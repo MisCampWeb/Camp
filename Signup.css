@@ -1,0 +1,32 @@
+body{
+	background-image: url("img/street.jpg");
+    background-attachment:fixed;
+}
+a>input{
+	padding: 10px 30px;
+        text-align: center;
+        font-size: 15px;
+        font-family: courier;
+        border-radius: 12px;
+        -webkit-transition-duration: 0.4s;
+        transition-duration: 0.4s;
+        cursor: pointer;
+    margin-left: 30px;
+    position: absolute;
+}
+.button1 {
+        background-color: black;
+        
+        color: white;
+    }
+    
+.button1:hover {
+        background-color: gray;
+        color: black;
+        border: 2px solid black;
+    }
+body>h1{
+	text-align: center;
+	color:yellow;
+	font-size: 90px;
+}
