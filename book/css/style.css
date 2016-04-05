@@ -22,6 +22,11 @@ a>input{
     margin-top: 30px;
     position: absolute;
 }
+
+.fb{
+	margin: 0px 900px;
+}
+
 .button1 {
         background-color: black;
         

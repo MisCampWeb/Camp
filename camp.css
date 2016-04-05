@@ -2,6 +2,9 @@ body{
 	background-image: url("img/street.jpg");
 	background-attachment:fixed;
 }
+.fb{
+	margin: 0px 900px;
+}
 body>p{
 
 
