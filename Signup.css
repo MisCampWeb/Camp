@@ -1,7 +1,9 @@
 body{
 	background-image: url("img/street.jpg");
     background-attachment:fixed;
+    background-repeat: no-repeat;
 }
+
 a>input{
 	padding: 10px 30px;
         text-align: center;
@@ -26,7 +28,8 @@ a>input{
         border: 2px solid black;
     }
 body>h1{
-	text-align: center;
+	font-family: "wthc06";
+    text-align: center;
 	color:yellow;
 	font-size: 90px;
 }
@@ -66,7 +69,7 @@ body>h2{
  padding-bottom: 20px;
 } /*四邊加上40%不同顏色的 border*/
 #st2 img{
-    padding: 30px 200px;
+    padding: 30px 100px;
 }
 I{
     color:yellow; 
