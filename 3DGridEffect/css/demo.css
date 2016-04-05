@@ -23,10 +23,6 @@ body {
 	font-family: 'Lato', Arial, sans-serif;
 }
 
-body.demo-2 {
-	background: #3498db;
-}
-
 .container {
 	overflow: hidden;
 }
@@ -46,6 +42,12 @@ a:hover, a:focus {
 	text-align: center;
 	color:white;
 	font-size: 90px;
+}
+
+.codrops-header h2 {
+	 font-family: "wt064";
+	margin: 0px 200px ;
+	color:white;
 }
 
 .codrops-demos a {
