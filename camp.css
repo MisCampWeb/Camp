@@ -3,9 +3,13 @@ body{
 	background-attachment:fixed;
 }
 body>p{
-	font-family: 'Bangers', cursive;
+
+
+
+	font-family: 'Ultra', serif;
+
 	text-align: center;
-	color:yellow;
+	color:white;
 	font-size: 90px;
 }
 
