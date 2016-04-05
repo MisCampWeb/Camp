@@ -24,18 +24,9 @@ body {
 }
 
 
-body>h3{
-    margin: 0px 100px;
-    padding: 0px 50px; 
+body>h2{
     color: white;
     font-family: "wt064";
-}
-
-h1{
-	font-family: "wt064";
-	color:white;
-	font-size:40px;
-	margin:20px 0px 0px 20px;
 }
 
 a>input{
