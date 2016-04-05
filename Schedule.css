@@ -7,7 +7,7 @@ a>input{
 	padding: 10px 30px;
         text-align: center;
         font-size: 15px;
-        font-family: courier;
+        font-family: "wt064";
         border-radius: 12px;
         -webkit-transition-duration: 0.4s;
         transition-duration: 0.4s;
@@ -27,13 +27,15 @@ a>input{
         border: 2px solid black;
     }
 body>h1{
-	text-align: center;
-	color:yellow;
+	 font-family: "wt064";
+    text-align: center;
+	color:white;
 	font-size: 90px;
     
 }
 
 body>h3{
+     font-family: "wt064";
     text-align: center;
     color:white;
     font-size: 50px;
@@ -87,6 +89,7 @@ body>h3{
 
 /*滑板內容文字-大標題*/
 #ice_break h2{
+  font-family: "wt064";
  margin: 10px 10px 0 15px;
  color:white;
  font:20pt Arial,sans-serif;
@@ -97,6 +100,7 @@ body>h3{
  
 /*滑板內容文字*/
 #ice_break .boxgrid p { 
+  font-family: "wt064";
  padding: 15px 5px 5px 10px; 
  color:#C8DCE5; 
  font-weight:bold; 
@@ -158,6 +162,7 @@ body>h3{
 
 /*滑板內容文字-大標題*/
 #opening h2{
+  font-family: "wt064";
  margin: 10px 10px 0 15px;
  color:white;
  font:20pt Arial,sans-serif;
@@ -167,6 +172,7 @@ body>h3{
  
 /*滑板內容文字*/
 #opening .boxgrid p { 
+  font-family: "wt064";
  padding: 15px 5px 5px 10px; 
  color:#C8DCE5; 
  font-weight:bold; 
@@ -228,6 +234,7 @@ body>h3{
 
 /*滑板內容文字-大標題*/
 #evening_party h2{
+  font-family: "wt064";
  margin: 10px 10px 0 15px;
  color:white;
  font:20pt Arial,sans-serif;
@@ -237,6 +244,7 @@ body>h3{
  
 /*滑板內容文字*/
 #evening_party .boxgrid p { 
+  font-family: "wt064";
  padding: 15px 5px 5px 10px; 
  color:#C8DCE5; 
  font-weight:bold; 
@@ -298,6 +306,7 @@ body>h3{
 
 /*滑板內容文字-大標題*/
 #scary_night h2{
+ font-family: "wt064";
  margin: 10px 10px 0 15px;
  color:white;
  font:20pt Arial,sans-serif;
@@ -307,6 +316,7 @@ body>h3{
  
 /*滑板內容文字*/
 #scary_night .boxgrid p { 
+ font-family: "wt064";
  padding: 15px 5px 5px 10px; 
  color:#C8DCE5; 
  font-weight:bold; 
@@ -368,6 +378,7 @@ body>h3{
 
 /*滑板內容文字-大標題*/
 #class1 h2{
+  font-family: "wt064";
  margin: 10px 10px 0 15px;
  color:white;
  font:20pt Arial,sans-serif;
@@ -377,6 +388,7 @@ body>h3{
  
 /*滑板內容文字*/
 #class1 .boxgrid p { 
+  font-family: "wt064";
  padding: 15px 5px 5px 10px; 
  color:#C8DCE5; 
  font-weight:bold; 
@@ -438,6 +450,7 @@ body>h3{
 
 /*滑板內容文字-大標題*/
 #class2 h2{
+  font-family: "wt064";
  margin: 10px 10px 0 15px;
  color:white;
  font:20pt Arial,sans-serif;
@@ -447,6 +460,7 @@ body>h3{
  
 /*滑板內容文字*/
 #class2 .boxgrid p { 
+  font-family: "wt064";
  padding: 15px 5px 5px 10px; 
  color:#C8DCE5; 
  font-weight:bold; 
@@ -508,6 +522,7 @@ body>h3{
 
 /*滑板內容文字-大標題*/
 #ground_game h2{
+  font-family: "wt064";
  margin: 10px 10px 0 15px;
  color:white;
  font:20pt Arial,sans-serif;
@@ -517,6 +532,7 @@ body>h3{
  
 /*滑板內容文字*/
 #ground_game .boxgrid p { 
+  font-family: "wt064";
  padding: 15px 5px 5px 10px; 
  color:#C8DCE5; 
  font-weight:bold; 
@@ -578,6 +594,7 @@ body>h3{
 
 /*滑板內容文字-大標題*/
 #gambling h2{
+  font-family: "wt064";
  margin: 10px 10px 0 15px;
  color:white;
  font:20pt Arial,sans-serif;
@@ -587,6 +604,7 @@ body>h3{
  
 /*滑板內容文字*/
 #gambling .boxgrid p { 
+  font-family: "wt064";
  padding: 15px 5px 5px 10px; 
  color:#C8DCE5; 
  font-weight:bold; 
@@ -648,6 +666,7 @@ body>h3{
 
 /*滑板內容文字-大標題*/
 #class3 h2{
+  font-family: "wt064";
  margin: 10px 10px 0 15px;
  color:white;
  font:20pt Arial,sans-serif;
@@ -657,6 +676,7 @@ body>h3{
  
 /*滑板內容文字*/
 #class3 .boxgrid p { 
+  font-family: "wt064";
  padding: 15px 5px 5px 10px; 
  color:#C8DCE5; 
  font-weight:bold; 
@@ -718,6 +738,7 @@ body>h3{
 
 /*滑板內容文字-大標題*/
 #RPG h2{
+  font-family: "wt064";
  margin: 10px 10px 0 15px;
  color:white;
  font:20pt Arial,sans-serif;
@@ -727,6 +748,7 @@ body>h3{
  
 /*滑板內容文字*/
 #RPG .boxgrid p { 
+ font-family: "wt064";
  padding: 15px 5px 5px 10px; 
  color:#C8DCE5; 
  font-weight:bold; 
@@ -788,6 +810,7 @@ body>h3{
 
 /*滑板內容文字-大標題*/
 #dancing_party h2{
+ font-family: "wt064";
  margin: 10px 10px 0 15px;
  color:white;
  font:20pt Arial,sans-serif;
@@ -797,6 +820,7 @@ body>h3{
  
 /*滑板內容文字*/
 #dancing_party .boxgrid p { 
+ font-family: "wt064";
  padding: 15px 5px 5px 10px; 
  color:#C8DCE5; 
  font-weight:bold; 
@@ -858,6 +882,7 @@ body>h3{
 
 /*滑板內容文字-大標題*/
 #experience h2{
+ font-family: "wt064";
  margin: 10px 10px 0 15px;
  color:white;
  font:20pt Arial,sans-serif;
@@ -867,6 +892,7 @@ body>h3{
  
 /*滑板內容文字*/
 #experience .boxgrid p { 
+ font-family: "wt064";
  padding: 15px 5px 5px 10px; 
  color:#C8DCE5; 
  font-weight:bold; 
@@ -928,6 +954,7 @@ body>h3{
 
 /*滑板內容文字-大標題*/
 #presentation h2{
+ font-family: "wt064";
  margin: 10px 10px 0 15px;
  color:white;
  font:20pt Arial,sans-serif;
@@ -937,6 +964,7 @@ body>h3{
  
 /*滑板內容文字*/
 #presentation .boxgrid p { 
+ font-family: "wt064";
  padding: 15px 5px 5px 10px; 
  color:#C8DCE5; 
  font-weight:bold; 
@@ -998,6 +1026,7 @@ body>h3{
 
 /*滑板內容文字-大標題*/
 #ending h2{
+ font-family: "wt064";
  margin: 10px 10px 0 15px;
  color:white;
  font:20pt Arial,sans-serif;
@@ -1007,6 +1036,7 @@ body>h3{
  
 /*滑板內容文字*/
 #ending .boxgrid p { 
+ font-family: "wt064";
  padding: 15px 5px 5px 10px; 
  color:#C8DCE5; 
  font-weight:bold; 
