@@ -1,7 +1,6 @@
 body{
 	background-image: url("img/street.jpg");
     background-attachment:fixed;
-    background-repeat: no-repeat;
 }
 a>input{
 	padding: 10px 30px;
