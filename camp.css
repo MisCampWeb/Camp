@@ -3,7 +3,11 @@ body{
 	background-attachment:fixed;
 }
 body>p{
+<<<<<<< HEAD
 font-family: 'Bangers', cursive;
+=======
+	font-family: 'Bangers', cursive;
+>>>>>>> master
 	text-align: center;
 	color:white;
 	font-size: 90px;

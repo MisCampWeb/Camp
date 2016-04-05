@@ -27,6 +27,7 @@ body {
 body>h3{
     padding: 0px 50px; 
     color: white;
+    font-family: "wt064";
 }
 
 
@@ -34,7 +35,7 @@ a>input{
 	padding: 10px 30px;
         text-align: center;
         font-size: 15px;
-        font-family: courier;
+        font-family: "wt064";
         border-radius: 12px;
         -webkit-transition-duration: 0.4s;
         transition-duration: 0.4s;
@@ -231,6 +232,7 @@ a>input{
 	top: 0;
 	right: 10px;
 	font-size: 1.6em;
+	font-family: "wt064";
 	color: #aaa;
 	cursor: pointer;
 	pointer-events: none;
@@ -317,7 +319,7 @@ p.dummy-text:nth-child(3) {
 	padding: 10px 0;
 	color: yellow;
 	font-size: 1em;
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: "wt064";
 }
 
 .dummy-text:last-child {
