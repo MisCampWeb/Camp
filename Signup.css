@@ -28,6 +28,7 @@ a>input{
         border: 2px solid black;
     }
 body>h1{
+    font-family: "wt064";
     text-align: center;
 	color:white;
 	font-size: 90px;
