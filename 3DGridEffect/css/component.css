@@ -42,6 +42,11 @@ a>input{
     position: absolute;
     margin-top:30px; 
 }
+
+.fb{
+	margin: 0px 900px;
+}
+
 .button1 {
         background-color: black;
         
