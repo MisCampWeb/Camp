@@ -72,7 +72,7 @@ a>input{
 	perspective: 1500px;
 }
 
-.grid col-xs-6 col-sm-4 col-md-12 col-lg-12 {
+.grid  {
 	position: relative;
 	-webkit-transition: all 0.5s cubic-bezier(0,0,0.25,1);
 	transition: all 0.5s cubic-bezier(0,0,0.25,1);
