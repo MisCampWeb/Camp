@@ -5,6 +5,43 @@ body{
 .fb{
 	margin: 0px 900px;
 }
+
+#st1 .inner {
+ padding: 1em 4%;
+}
+/*標題 h1, 段落 p 加半透明背景色*/
+
+#st1 p {
+ background: rgba(0%,10%,20%,0.6);
+ font-size: 24px;
+ padding-bottom: 20px;
+ padding-top: 20px;
+}
+
+#st1{
+	padding-top: 10px;
+	color: white;
+	text-align: center;
+}
+
+#st2 .inner {
+ padding: 1em 4%;
+}
+/*標題 h1, 段落 p 加半透明背景色*/
+
+#st2 p {
+ background: rgba(0%,10%,20%,0.6);
+ font-size: 24px;
+ padding-bottom: 20px;
+ padding-top: 20px;
+}
+
+#st2{
+	padding-top: 10px;
+	color: white;
+	text-align: center;
+}
+
 body>p{
 
 
@@ -56,4 +93,8 @@ nav {
 	section {
 	padding: 1em;
 	text-align: center;
+}
+
+I{
+	color: yellow;
 }
