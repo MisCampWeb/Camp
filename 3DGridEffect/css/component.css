@@ -44,7 +44,8 @@ a>input{
 }
 
 .fb{
-	margin: 0px 900px;
+	position: relative;
+	left: 60%;
 }
 
 .button1 {
